@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm Muhammad Ahmad 👋
 
-<!--
-**ahmad-zulfiqar-work/ahmad-zulfiqar-work** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python AI Developer building AI agents, LLM-powered apps and n8n automations on Django and FastAPI backends, with React / Next.js frontends.
 
-Here are some ideas to get you started:
+**What I work on**
+- AI agents and multi-agent systems (OpenAI, Claude, MCP)
+- Django, DRF and FastAPI backends
+- React, Next.js and React Native apps
+- n8n workflow automation and API integrations
+- AWS, Azure and Vercel deployments
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack:** Python · Django · FastAPI · React · Next.js · TypeScript · PostgreSQL · MongoDB · OpenAI · Claude · n8n · AWS
+
+Top Rated on Upwork · 100% Job Success
